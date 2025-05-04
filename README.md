@@ -85,15 +85,15 @@ Key goals:
 ![Dashboard 3](Dashboard2_Overview.png)
 
 > Dashboards are embedded in the `.pptx` file shared in the repository.  
-> 📥 **[Download PPT: Bank Loan Problem statement.pptx.pptx](Bank Loan Problem statement.pptx)**
+![Download PPT: Bank Loan Problem statement.pptx.pptx](Bank Loan Problem statement.pptx)
 
 ---
 
 ## 🧾 SQL Query Documentation
 
-The SQL scripts (25+ queries) used to extract KPIs are saved in a `.docx` file along with actual outputs.
+The SQL scripts (25+ queries) used to extract KPIs are saved in a `.pdf` file along with actual outputs.
 
-📄 **[View BankTerminologies+SQL Queries.pdf](BankTerminologies+SQL Queries.pdf)**
+![View BankTerminologies+SQL Queries.pdf](BankTerminologies+SQL Queries.pdf)**
 
 Sample included queries:
 - Total loan applications and amount
@@ -116,7 +116,7 @@ Sample included queries:
 
 1. **Clone or Download this Repository**
 
-git clone https://github.com/yourusername/loan-portfolio-analysis.git
+git clone ![https://github.com/yourusername/loan-portfolio-analysis.git](https://github.com/Samsgithub9635/Bank-Loan-Data-Analysis_PowerBI_and_MS-SQL-SERVER.git)
 Set up SQL Server
 
 Create a new database LoanDB
